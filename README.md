@@ -1,2 +1,2 @@
 # VidhyaTest
-This repository is created for my practice
+This repository is created for test practice
